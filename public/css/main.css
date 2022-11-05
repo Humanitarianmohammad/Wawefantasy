@@ -1,0 +1,49 @@
+.noPadding {
+  padding: 0;
+}
+
+.noMargin {
+  margin: 0;
+}
+
+.alignSelfCenter {
+  align-self: center;
+}
+
+.gridClass {
+  display: grid;
+}
+
+.flexClass {
+  display: flex;
+}
+
+.displayInlineBlock {
+  display: inline-block;
+}
+.text-center {
+  text-align: center;
+}
+.pointer {
+  cursor: pointer;
+}
+label.error {
+  color: #ff4081 !important;
+  margin-top: 35px !important;
+  font-size: 11px !important;
+  position: absolute;
+}
+.error.active {
+  margin-top: 65px !important;
+  font-size: 11px !important;
+}
+#profile-card .card-profile-image {
+  height: 70px;
+  object-fit: cover;
+}
+.profile_avatar img {
+  width: 35px;
+  max-width: 35px;
+  height: 35px;
+  object-fit: cover;
+}

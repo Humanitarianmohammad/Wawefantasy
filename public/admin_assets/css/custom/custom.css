@@ -1,0 +1,35 @@
+.alert-block {
+    padding: 10px;
+    margin: 11px 15px;
+    margin-bottom: 0px;
+}
+
+.alert {
+    color: white;
+}
+
+.alert-success {
+    border: 1px solid #8bc34a;
+    background-color: #8bc34a;
+}
+
+.alert-danger {
+    border: 1px solid #ff5722;
+    background-color: #ff5722;
+}
+
+.alert-warning {
+    border: 1px solid #ff9800;
+    background-color: #ff9800;
+}
+
+.alert-info {
+    border: 1px solid #2196f3;
+    background-color: #2196f3;
+}
+
+.close{
+    float: right;
+}
+
+
